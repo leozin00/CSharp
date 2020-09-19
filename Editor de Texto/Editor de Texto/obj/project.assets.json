@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leova\\Desktop\\projetos-c#\\Aula02\\Editor de Texto\\Editor de Texto\\Editor de Texto.csproj",
+      "projectUniqueName": "C:\\Users\\leova\\Desktop\\projetos-c#\\CSharp\\Editor de Texto\\Editor de Texto\\Editor de Texto.csproj",
       "projectName": "Editor de Texto",
-      "projectPath": "C:\\Users\\leova\\Desktop\\projetos-c#\\Aula02\\Editor de Texto\\Editor de Texto\\Editor de Texto.csproj",
+      "projectPath": "C:\\Users\\leova\\Desktop\\projetos-c#\\CSharp\\Editor de Texto\\Editor de Texto\\Editor de Texto.csproj",
       "packagesPath": "C:\\Users\\leova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leova\\Desktop\\projetos-c#\\Aula02\\Editor de Texto\\Editor de Texto\\obj\\",
+      "outputPath": "C:\\Users\\leova\\Desktop\\projetos-c#\\CSharp\\Editor de Texto\\Editor de Texto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

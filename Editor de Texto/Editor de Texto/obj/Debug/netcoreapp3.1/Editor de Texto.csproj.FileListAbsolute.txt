@@ -1,0 +1,15 @@
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de Texto.exe
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de Texto.deps.json
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de Texto.runtimeconfig.json
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de Texto.runtimeconfig.dev.json
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de Texto.dll
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de Texto.pdb
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.csprojAssemblyReference.cache
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor_de_Texto.EditorTexto.resources
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.csproj.GenerateResource.cache
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.AssemblyInfoInputs.cache
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.AssemblyInfo.cs
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.csproj.CoreCompileInputs.cache
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.dll
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.pdb
+C:\Users\leova\Desktop\projetos-c#\CSharp\Editor de Texto\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de Texto.genruntimeconfig.cache

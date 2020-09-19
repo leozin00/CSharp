@@ -17,5 +17,14 @@ namespace Editor_de_Texto
             InitializeComponent();
         }
 
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void EditorTexto_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
